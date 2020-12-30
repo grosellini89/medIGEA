@@ -13,7 +13,7 @@
                 <a class="btn btn-dark btn-social mx-2" href="https://www.linkedin.com/company/centromedicomedigea/"><i class="fab fa-linkedin-in"></i></a>
             </div>
             <div class="col-lg-4 text-lg-right ">
-                Copyright © 2017 , medIGEA
+                Copyright © 2017 , MediIgea
             </div>
         </div>
     </div>
